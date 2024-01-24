@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: #181818;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.custom-link {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    color: #fff;
+    display: block;
+    /* Cho phép các thẻ a nằm cùng một hàng */
+    margin-left: 75px;
+    margin-bottom: 16px;
+}
+
+.custom-link span {
+    color: #fff;
+}
